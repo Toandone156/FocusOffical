@@ -1,0 +1,95 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Check out";
+}
+
+<!-- Breadcrumb Section Begin -->
+<section class="breadcrumb-option">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="breadcrumb__text">
+                    <h4>Check Out</h4>
+                    <div class="breadcrumb__links">
+                        <a href="./index.html">Home</a>
+                        <span>Check Out</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Breadcrumb Section End -->
+<!-- Checkout Section Begin -->
+<section class="checkout spad">
+    <div class="container">
+        <div class="checkout__form">
+            <form action="#">
+                <div class="row">
+                    <div class="col-lg-8 col-md-6">
+                        <h6 class="coupon__code"><span class="icon_error-oct_alt"></span>This information will be save for next order</h6>
+                        <h6 class="checkout__title">Billing Details</h6>
+                        <div class="checkout__input">
+                            <p>Name<span>*</span></p>
+                            <input type="text" placeholder="Your full name">
+                        </div>
+                        <div class="checkout__input">
+                            <p>Province/City<span>*</span></p>
+                            <input type="text" placeholder="Your province">
+                        </div>
+                        <div class="checkout__input">
+                            <p>District<span>*</span></p>
+                            <input type="text" placeholder="Your district">
+                        </div>
+                        <div class="checkout__input">
+                            <p>Commune/Ward<span>*</span></p>
+                            <input type="text" placeholder="Your commune">
+                        </div>
+                        <div class="checkout__input">
+                            <p>Full Address<span>*</span></p>
+                            <input type="text" placeholder="Exactly Address" class="checkout__input__add">
+                            <input type="text" placeholder="Note for address (optinal)">
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="checkout__input">
+                                    <p>Phone<span>*</span></p>
+                                    <input type="text" placeholder="Your phone number">
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="checkout__input">
+                                    <p>Email<span>*</span></p>
+                                    <input type="text" placeholder="Your email">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="checkout__input">
+                            <p>Order notes</p>
+                            <input type="text"
+                                   placeholder="Notes about your order, e.g. special notes for delivery.">
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="checkout__order">
+                            <h4 class="order__title">Your order</h4>
+                            <div class="checkout__order__products">Product <span>Total</span></div>
+                            <ul class="checkout__total__products">
+                                <li>x1 Vanilla salted caramel <span>$ 300.0</span></li>
+                                <li>x1 German chocolate <span>$ 170.0</span></li>
+                            </ul>
+                            <ul class="checkout__total__all">
+                                <li>Total <span>$750.99</span></li>
+                            </ul>
+                            <p>COD payment. <br>(You can pay when receive products)</p>
+                            <button type="submit" class="site-btn">PLACE ORDER</button>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</section>
+<!-- Checkout Section End -->
