@@ -66,6 +66,24 @@ namespace FocusOffical.Services
                 Category = "sunflower",
                 Image = "product6.jpg"
             }
+            //new Product
+            //{
+            //    ProductId = 7,
+            //    Name = "Risk 2023",
+            //    Description = "“Beauty from within’ - “A Rose can never be a sunflower, and a sunflower can never be a rose. All flowers are beautiful in their own way, and that’s like women too.”\r\n",
+            //    Price = 239_000,
+            //    Category = "",
+            //    Image = "product7.jpg"
+            //},
+            //new Product
+            //{
+            //    ProductId = 8,
+            //    Name = "Summer Focus",
+            //    Description = "“Beauty from within’ - “A Rose can never be a sunflower, and a sunflower can never be a rose. All flowers are beautiful in their own way, and that’s like women too.”\r\n",
+            //    Price = 239_000,
+            //    Category = "",
+            //    Image = "product8.jpg"
+            //}
         };
 
         public List<Product> GetAll()

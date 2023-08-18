@@ -1,883 +1,895 @@
 {
   "Files": [
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FocusOffical.bundle.scp.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FocusOffical.bundle.scp.css",
       "PackagePath": "staticwebassets\\FocusOffical.bundle.scp.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\android-chrome-192x192.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\android-chrome-192x192.png",
       "PackagePath": "staticwebassets\\android-chrome-192x192.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\android-chrome-512x512.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\android-chrome-512x512.png",
       "PackagePath": "staticwebassets\\android-chrome-512x512.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\apple-touch-icon.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\apple-touch-icon.png",
       "PackagePath": "staticwebassets\\apple-touch-icon.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\elegant-icons.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\css\\elegant-icons.css",
       "PackagePath": "staticwebassets\\css\\elegant-icons.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\font-awesome.min.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\magnific-popup.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\css\\magnific-popup.css",
       "PackagePath": "staticwebassets\\css\\magnific-popup.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\main.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\css\\main.css",
       "PackagePath": "staticwebassets\\css\\main.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\main.css.map",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\css\\main.css.map",
       "PackagePath": "staticwebassets\\css\\main.css.map"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\mdbootstrap\\mdb.dark.min.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\css\\mdbootstrap\\mdb.dark.min.css",
       "PackagePath": "staticwebassets\\css\\mdbootstrap\\mdb.dark.min.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\mdbootstrap\\mdb.dark.min.css.map",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\css\\mdbootstrap\\mdb.dark.min.css.map",
       "PackagePath": "staticwebassets\\css\\mdbootstrap\\mdb.dark.min.css.map"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\mdbootstrap\\mdb.dark.rtl.min.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\css\\mdbootstrap\\mdb.dark.rtl.min.css",
       "PackagePath": "staticwebassets\\css\\mdbootstrap\\mdb.dark.rtl.min.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\mdbootstrap\\mdb.dark.rtl.min.css.map",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\css\\mdbootstrap\\mdb.dark.rtl.min.css.map",
       "PackagePath": "staticwebassets\\css\\mdbootstrap\\mdb.dark.rtl.min.css.map"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\mdbootstrap\\mdb.min.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\css\\mdbootstrap\\mdb.min.css",
       "PackagePath": "staticwebassets\\css\\mdbootstrap\\mdb.min.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\mdbootstrap\\mdb.min.css.map",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\css\\mdbootstrap\\mdb.min.css.map",
       "PackagePath": "staticwebassets\\css\\mdbootstrap\\mdb.min.css.map"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\mdbootstrap\\mdb.rtl.min.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\css\\mdbootstrap\\mdb.rtl.min.css",
       "PackagePath": "staticwebassets\\css\\mdbootstrap\\mdb.rtl.min.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\mdbootstrap\\mdb.rtl.min.css.map",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\css\\mdbootstrap\\mdb.rtl.min.css.map",
       "PackagePath": "staticwebassets\\css\\mdbootstrap\\mdb.rtl.min.css.map"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\nice-select.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\css\\nice-select.css",
       "PackagePath": "staticwebassets\\css\\nice-select.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\owl.carousel.min.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\css\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\site.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\slicknav.min.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\css\\slicknav.min.css",
       "PackagePath": "staticwebassets\\css\\slicknav.min.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\favicon-16x16.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\favicon-16x16.png",
       "PackagePath": "staticwebassets\\favicon-16x16.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\favicon-32x32.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\favicon-32x32.png",
       "PackagePath": "staticwebassets\\favicon-32x32.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\favicon.ico",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\favicon_io.zip",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\favicon_io.zip",
       "PackagePath": "staticwebassets\\favicon_io.zip"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\fonts\\ElegantIcons.eot",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\fonts\\ElegantIcons.eot",
       "PackagePath": "staticwebassets\\fonts\\ElegantIcons.eot"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\fonts\\ElegantIcons.svg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\fonts\\ElegantIcons.svg",
       "PackagePath": "staticwebassets\\fonts\\ElegantIcons.svg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\fonts\\ElegantIcons.ttf",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\fonts\\ElegantIcons.ttf",
       "PackagePath": "staticwebassets\\fonts\\ElegantIcons.ttf"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\fonts\\ElegantIcons.woff",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\fonts\\ElegantIcons.woff",
       "PackagePath": "staticwebassets\\fonts\\ElegantIcons.woff"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\fonts\\FontAwesome.otf",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\icon-removebg-preview.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\icon-removebg-preview.png",
       "PackagePath": "staticwebassets\\icon-removebg-preview.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\icon.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\icon.png",
       "PackagePath": "staticwebassets\\icon.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\FOCUS.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\FOCUS.png",
       "PackagePath": "staticwebassets\\img\\FOCUS.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\about\\about-us.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\about\\6.png",
+      "PackagePath": "staticwebassets\\img\\about\\6.png"
+    },
+    {
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\about\\about-us.jpg",
       "PackagePath": "staticwebassets\\img\\about\\about-us.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\about\\about.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\about\\about.png",
       "PackagePath": "staticwebassets\\img\\about\\about.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\about\\team-1.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\about\\team-1.jpg",
       "PackagePath": "staticwebassets\\img\\about\\team-1.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\about\\team-2.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\about\\team-2.jpg",
       "PackagePath": "staticwebassets\\img\\about\\team-2.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\about\\team-3.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\about\\team-3.jpg",
       "PackagePath": "staticwebassets\\img\\about\\team-3.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\about\\team-4.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\about\\team-4.jpg",
       "PackagePath": "staticwebassets\\img\\about\\team-4.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\about\\testimonial-author.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\about\\testimonial-author.jpg",
       "PackagePath": "staticwebassets\\img\\about\\testimonial-author.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\about\\testimonial-pic.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\about\\testimonial-pic.jpg",
       "PackagePath": "staticwebassets\\img\\about\\testimonial-pic.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\banner\\1.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\banner\\1.jpg",
       "PackagePath": "staticwebassets\\img\\banner\\1.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\banner\\2.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\banner\\2.jpg",
       "PackagePath": "staticwebassets\\img\\banner\\2.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\banner\\3.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\banner\\3.jpg",
       "PackagePath": "staticwebassets\\img\\banner\\3.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\banner\\banner-1.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\banner\\banner-1.jpg",
       "PackagePath": "staticwebassets\\img\\banner\\banner-1.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\banner\\banner-2.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\banner\\banner-2.jpg",
       "PackagePath": "staticwebassets\\img\\banner\\banner-2.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\banner\\banner-3.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\banner\\banner-3.jpg",
       "PackagePath": "staticwebassets\\img\\banner\\banner-3.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\banner\\bannerr1.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\banner\\bannerr1.png",
       "PackagePath": "staticwebassets\\img\\banner\\bannerr1.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\banner\\bannerr2.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\banner\\bannerr2.png",
       "PackagePath": "staticwebassets\\img\\banner\\bannerr2.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\banner\\bannerr3.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\banner\\bannerr3.png",
       "PackagePath": "staticwebassets\\img\\banner\\bannerr3.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\blog\\blog-1.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\blog\\blog-1.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-1.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\blog\\blog-2.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\blog\\blog-2.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-2.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\blog\\blog-3.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\blog\\blog-3.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-3.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\blog\\blog-4.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\blog\\blog-4.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-4.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\blog\\blog-5.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\blog\\blog-5.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-5.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\blog\\blog-6.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\blog\\blog-6.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-6.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\blog\\blog-7.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\blog\\blog-7.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-7.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\blog\\blog-8.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\blog\\blog-8.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-8.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\blog\\blog-9.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\blog\\blog-9.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-9.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\blog\\details\\blog-author.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\blog\\details\\blog-author.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\details\\blog-author.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\blog\\details\\blog-details.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\blog\\details\\blog-details.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\details\\blog-details.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\breadcrumb-bg.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\breadcrumb-bg.jpg",
       "PackagePath": "staticwebassets\\img\\breadcrumb-bg.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\clients\\client-1.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\clients\\client-1.png",
       "PackagePath": "staticwebassets\\img\\clients\\client-1.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\clients\\client-2.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\clients\\client-2.png",
       "PackagePath": "staticwebassets\\img\\clients\\client-2.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\clients\\client-3.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\clients\\client-3.png",
       "PackagePath": "staticwebassets\\img\\clients\\client-3.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\clients\\client-4.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\clients\\client-4.png",
       "PackagePath": "staticwebassets\\img\\clients\\client-4.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\clients\\client-5.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\clients\\client-5.png",
       "PackagePath": "staticwebassets\\img\\clients\\client-5.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\clients\\client-6.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\clients\\client-6.png",
       "PackagePath": "staticwebassets\\img\\clients\\client-6.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\clients\\client-7.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\clients\\client-7.png",
       "PackagePath": "staticwebassets\\img\\clients\\client-7.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\clients\\client-8.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\clients\\client-8.png",
       "PackagePath": "staticwebassets\\img\\clients\\client-8.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\focus-offical-logo.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\focus-offical-logo.png",
       "PackagePath": "staticwebassets\\img\\focus-offical-logo.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\footer-logo.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\footer-logo.png",
       "PackagePath": "staticwebassets\\img\\footer-logo.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\hero\\hero-1.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\hero\\hero-1.jpg",
       "PackagePath": "staticwebassets\\img\\hero\\hero-1.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\hero\\hero-2.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\hero\\hero-2.jpg",
       "PackagePath": "staticwebassets\\img\\hero\\hero-2.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\icon\\calendar.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\icon\\calendar.png",
       "PackagePath": "staticwebassets\\img\\icon\\calendar.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\icon\\cart.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\icon\\cart.png",
       "PackagePath": "staticwebassets\\img\\icon\\cart.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\icon\\compare.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\icon\\compare.png",
       "PackagePath": "staticwebassets\\img\\icon\\compare.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\icon\\heart.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\icon\\heart.png",
       "PackagePath": "staticwebassets\\img\\icon\\heart.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\icon\\search.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\icon\\search.png",
       "PackagePath": "staticwebassets\\img\\icon\\search.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\instagram\\instagram1.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\instagram\\instagram1.jpg",
       "PackagePath": "staticwebassets\\img\\instagram\\instagram1.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\instagram\\instagram2.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\instagram\\instagram2.jpg",
       "PackagePath": "staticwebassets\\img\\instagram\\instagram2.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\instagram\\instagram3.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\instagram\\instagram3.jpg",
       "PackagePath": "staticwebassets\\img\\instagram\\instagram3.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\instagram\\instagram4.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\instagram\\instagram4.jpg",
       "PackagePath": "staticwebassets\\img\\instagram\\instagram4.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\instagram\\instagram5.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\instagram\\instagram5.jpg",
       "PackagePath": "staticwebassets\\img\\instagram\\instagram5.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\instagram\\instagram6.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\instagram\\instagram6.jpg",
       "PackagePath": "staticwebassets\\img\\instagram\\instagram6.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\instagram\\instagram6.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\instagram\\instagram6.png",
       "PackagePath": "staticwebassets\\img\\instagram\\instagram6.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\logo.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\payment.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\payment.png",
       "PackagePath": "staticwebassets\\img\\payment.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\product-sale.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\product-sale.png",
       "PackagePath": "staticwebassets\\img\\product-sale.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\product\\product-1.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\product\\product-1.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product-1.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\product\\product-10.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\product\\product-10.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product-10.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\product\\product-11.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\product\\product-11.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product-11.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\product\\product-12.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\product\\product-12.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product-12.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\product\\product-13.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\product\\product-13.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product-13.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\product\\product-14.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\product\\product-14.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product-14.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\product\\product-2.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\product\\product-2.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product-2.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\product\\product-3.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\product\\product-3.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product-3.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\product\\product-4.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\product\\product-4.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product-4.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\product\\product-5.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\product\\product-5.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product-5.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\product\\product-6.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\product\\product-6.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product-6.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\product\\product-7.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\product\\product-7.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product-7.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\product\\product-8.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\product\\product-8.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product-8.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\product\\product-9.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\product\\product-9.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product-9.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\product\\product1.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\product\\product1.png",
       "PackagePath": "staticwebassets\\img\\product\\product1.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\product\\product2.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\product\\product2.png",
       "PackagePath": "staticwebassets\\img\\product\\product2.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\product\\product3.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\product\\product3.png",
       "PackagePath": "staticwebassets\\img\\product\\product3.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\product\\product4.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\product\\product4.png",
       "PackagePath": "staticwebassets\\img\\product\\product4.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\product\\product5.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\product\\product5.png",
       "PackagePath": "staticwebassets\\img\\product\\product5.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\product\\product6.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\product\\product6.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product6.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\sale.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\product\\product7.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product7.jpg"
+    },
+    {
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\product\\product8.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product8.jpg"
+    },
+    {
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\sale.png",
       "PackagePath": "staticwebassets\\img\\sale.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\shop-details\\details-payment.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\shop-details\\details-payment.png",
       "PackagePath": "staticwebassets\\img\\shop-details\\details-payment.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\shop-details\\product-big-2.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\shop-details\\product-big-2.png",
       "PackagePath": "staticwebassets\\img\\shop-details\\product-big-2.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\shop-details\\product-big-3.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\shop-details\\product-big-3.png",
       "PackagePath": "staticwebassets\\img\\shop-details\\product-big-3.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\shop-details\\product-big-4.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\shop-details\\product-big-4.png",
       "PackagePath": "staticwebassets\\img\\shop-details\\product-big-4.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\shop-details\\product-big.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\shop-details\\product-big.png",
       "PackagePath": "staticwebassets\\img\\shop-details\\product-big.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\shop-details\\thumb-1.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\shop-details\\thumb-1.png",
       "PackagePath": "staticwebassets\\img\\shop-details\\thumb-1.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\shop-details\\thumb-2.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\shop-details\\thumb-2.png",
       "PackagePath": "staticwebassets\\img\\shop-details\\thumb-2.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\shop-details\\thumb-3.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\shop-details\\thumb-3.png",
       "PackagePath": "staticwebassets\\img\\shop-details\\thumb-3.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\shop-details\\thumb-4.png",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\shop-details\\thumb-4.png",
       "PackagePath": "staticwebassets\\img\\shop-details\\thumb-4.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\shopping-cart\\cart-1.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\shopping-cart\\cart-1.jpg",
       "PackagePath": "staticwebassets\\img\\shopping-cart\\cart-1.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\shopping-cart\\cart-2.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\shopping-cart\\cart-2.jpg",
       "PackagePath": "staticwebassets\\img\\shopping-cart\\cart-2.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\shopping-cart\\cart-3.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\shopping-cart\\cart-3.jpg",
       "PackagePath": "staticwebassets\\img\\shopping-cart\\cart-3.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\shopping-cart\\cart-4.jpg",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\img\\shopping-cart\\cart-4.jpg",
       "PackagePath": "staticwebassets\\img\\shopping-cart\\cart-4.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\js\\bootstrap.min.js",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\js\\index.js",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\js\\index.js",
       "PackagePath": "staticwebassets\\js\\index.js"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\js\\jquery-3.3.1.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\js\\jquery.countdown.min.js",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\js\\jquery.countdown.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.countdown.min.js"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\js\\jquery.magnific-popup.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\js\\jquery.nice-select.min.js",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\js\\jquery.nice-select.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\js\\jquery.nicescroll.min.js",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\js\\jquery.nicescroll.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.nicescroll.min.js"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\js\\jquery.slicknav.js",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\js\\jquery.slicknav.js",
       "PackagePath": "staticwebassets\\js\\jquery.slicknav.js"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\js\\mdbootstrap\\mdb.min.js",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\js\\mdbootstrap\\mdb.min.js",
       "PackagePath": "staticwebassets\\js\\mdbootstrap\\mdb.min.js"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\js\\mdbootstrap\\mdb.min.js.map",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\js\\mdbootstrap\\mdb.min.js.map",
       "PackagePath": "staticwebassets\\js\\mdbootstrap\\mdb.min.js.map"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\js\\mixitup.min.js",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\js\\mixitup.min.js",
       "PackagePath": "staticwebassets\\js\\mixitup.min.js"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\js\\owl.carousel.min.js",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\js\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\js\\site.js",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\sass\\_about.scss",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\sass\\_about.scss",
       "PackagePath": "staticwebassets\\sass\\_about.scss"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\sass\\_base.scss",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\sass\\_base.scss",
       "PackagePath": "staticwebassets\\sass\\_base.scss"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\sass\\_blog-details.scss",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\sass\\_blog-details.scss",
       "PackagePath": "staticwebassets\\sass\\_blog-details.scss"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\sass\\_blog-sidebar.scss",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\sass\\_blog-sidebar.scss",
       "PackagePath": "staticwebassets\\sass\\_blog-sidebar.scss"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\sass\\_blog.scss",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\sass\\_blog.scss",
       "PackagePath": "staticwebassets\\sass\\_blog.scss"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\sass\\_breadcrumb.scss",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\sass\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\sass\\_breadcrumb.scss"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\sass\\_checkout.scss",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\sass\\_checkout.scss",
       "PackagePath": "staticwebassets\\sass\\_checkout.scss"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\sass\\_contact.scss",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\sass\\_contact.scss",
       "PackagePath": "staticwebassets\\sass\\_contact.scss"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\sass\\_footer.scss",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\sass\\_footer.scss",
       "PackagePath": "staticwebassets\\sass\\_footer.scss"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\sass\\_header.scss",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\sass\\_header.scss",
       "PackagePath": "staticwebassets\\sass\\_header.scss"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\sass\\_hero.scss",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\sass\\_hero.scss",
       "PackagePath": "staticwebassets\\sass\\_hero.scss"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\sass\\_home-page.scss",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\sass\\_home-page.scss",
       "PackagePath": "staticwebassets\\sass\\_home-page.scss"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\sass\\_mixins.scss",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\sass\\_mixins.scss",
       "PackagePath": "staticwebassets\\sass\\_mixins.scss"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\sass\\_product.scss",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\sass\\_product.scss",
       "PackagePath": "staticwebassets\\sass\\_product.scss"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\sass\\_responsive.scss",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\sass\\_responsive.scss",
       "PackagePath": "staticwebassets\\sass\\_responsive.scss"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\sass\\_shop-details.scss",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\sass\\_shop-details.scss",
       "PackagePath": "staticwebassets\\sass\\_shop-details.scss"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\sass\\_shop.scss",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\sass\\_shop.scss",
       "PackagePath": "staticwebassets\\sass\\_shop.scss"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\sass\\_shopping-cart.scss",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\sass\\_shopping-cart.scss",
       "PackagePath": "staticwebassets\\sass\\_shopping-cart.scss"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\sass\\_variable.scss",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\sass\\_variable.scss",
       "PackagePath": "staticwebassets\\sass\\_variable.scss"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\sass\\style.scss",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\sass\\style.scss",
       "PackagePath": "staticwebassets\\sass\\style.scss"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\site.webmanifest",
+      "Id": "D:\\CN5\\Github\\FocusOffical\\wwwroot\\site.webmanifest",
       "PackagePath": "staticwebassets\\site.webmanifest"
     },
     {
