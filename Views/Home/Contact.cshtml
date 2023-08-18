@@ -1,14 +1,12 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@model FocusOffical.Models.Feedback
+
 @{
     ViewData["Title"] = "Contact Us";
 }
 
 <!-- Map Begin -->
     <div class="map">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3835.8638223776206!2d108.25798187405587!3d15.96848634212918!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3142116949840599%3A0x365b35580f52e8d5!2zxJDhuqFpIGjhu41jIEZQVCDEkMOgIE7hurVuZw!5e0!3m2!1svi!2s!4v1692014435937!5m2!1svi!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>    </div>
-    <!-- Map End -->
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3834.0022846450274!2d108.21286627405804!3d16.065371239543293!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3142183547a4feb1%3A0xae2efa4cfc0fe342!2zMjMgTeG6oWMgxJDEqW5oIENoaSwgSOG6o2kgQ2jDonUgMiwgSOG6o2kgQ2jDonUsIMSQw6AgTuG6tW5nIDU1MDAwMCwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1692161787903!5m2!1svi!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>    <!-- Map End -->
 
     <!-- Contact Section Begin -->
     <section class="contact spad">
@@ -25,24 +23,27 @@
                         <ul>
                             <li>
                                 <h4>Focus Offical</h4>
-                                <p>FPT University, Hoa Hai, Ngu Hanh Son, Da Nang <br />+84 123-456-789</p>
+                                <p>23 Mạc Đĩnh Chi, Phường Hải Châu 2, Da Nang, Vietnam <br />+84 917-080-029</p>
                             </li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6">
                     <div class="contact__form">
-                        <form action="#">
+                        <form asp-controller="Home" asp-action="Contact">
                             <div class="row">
-                                <div class="col-lg-6">
-                                    <input type="text" placeholder="Name">
+                            <div class="col-lg-6">
+                                <span asp-validation-for="Name" class="text-danger"></span>
+                                    <input asp-for="Name" placeholder="Name">
                                 </div>
-                                <div class="col-lg-6">
-                                    <input type="text" placeholder="Email">
+                            <div class="col-lg-6">
+                                <span asp-validation-for="Email" class="text-danger"></span>
+                                    <input asp-for="Email" placeholder="Email">
                                 </div>
-                                <div class="col-lg-12">
-                                    <textarea placeholder="Message"></textarea>
-                                    <button type="submit" class="site-btn">Send Message</button>
+                            <div class="col-lg-12">
+                                <span asp-validation-for="Message" class="text-danger"></span>
+                                    <textarea asp-for="Message" placeholder="Message"></textarea>
+                                    <input type="submit" class="site-btn" value="Send Message"></input>
                                 </div>
                             </div>
                         </form>

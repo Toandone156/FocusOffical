@@ -33,6 +33,46 @@
       "PackagePath": "staticwebassets\\css\\magnific-popup.css"
     },
     {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\main.css.map",
+      "PackagePath": "staticwebassets\\css\\main.css.map"
+    },
+    {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\mdbootstrap\\mdb.dark.min.css",
+      "PackagePath": "staticwebassets\\css\\mdbootstrap\\mdb.dark.min.css"
+    },
+    {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\mdbootstrap\\mdb.dark.min.css.map",
+      "PackagePath": "staticwebassets\\css\\mdbootstrap\\mdb.dark.min.css.map"
+    },
+    {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\mdbootstrap\\mdb.dark.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\mdbootstrap\\mdb.dark.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\mdbootstrap\\mdb.dark.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\mdbootstrap\\mdb.dark.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\mdbootstrap\\mdb.min.css",
+      "PackagePath": "staticwebassets\\css\\mdbootstrap\\mdb.min.css"
+    },
+    {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\mdbootstrap\\mdb.min.css.map",
+      "PackagePath": "staticwebassets\\css\\mdbootstrap\\mdb.min.css.map"
+    },
+    {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\mdbootstrap\\mdb.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\mdbootstrap\\mdb.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\mdbootstrap\\mdb.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\mdbootstrap\\mdb.rtl.min.css.map"
+    },
+    {
       "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\nice-select.css",
       "PackagePath": "staticwebassets\\css\\nice-select.css"
     },
@@ -47,14 +87,6 @@
     {
       "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\slicknav.min.css",
       "PackagePath": "staticwebassets\\css\\slicknav.min.css"
-    },
-    {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\style.css",
-      "PackagePath": "staticwebassets\\css\\style.css"
-    },
-    {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\css\\style.css.map",
-      "PackagePath": "staticwebassets\\css\\style.css.map"
     },
     {
       "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\favicon-16x16.png",
@@ -113,12 +145,24 @@
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
     },
     {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\icon-removebg-preview.png",
+      "PackagePath": "staticwebassets\\icon-removebg-preview.png"
+    },
+    {
       "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\icon.png",
       "PackagePath": "staticwebassets\\icon.png"
     },
     {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\FOCUS.png",
+      "PackagePath": "staticwebassets\\img\\FOCUS.png"
+    },
+    {
       "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\about\\about-us.jpg",
       "PackagePath": "staticwebassets\\img\\about\\about-us.jpg"
+    },
+    {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\about\\about.png",
+      "PackagePath": "staticwebassets\\img\\about\\about.png"
     },
     {
       "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\about\\team-1.jpg",
@@ -145,6 +189,18 @@
       "PackagePath": "staticwebassets\\img\\about\\testimonial-pic.jpg"
     },
     {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\banner\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\1.jpg"
+    },
+    {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\banner\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\2.jpg"
+    },
+    {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\banner\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\3.jpg"
+    },
+    {
       "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\banner\\banner-1.jpg",
       "PackagePath": "staticwebassets\\img\\banner\\banner-1.jpg"
     },
@@ -155,6 +211,18 @@
     {
       "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\banner\\banner-3.jpg",
       "PackagePath": "staticwebassets\\img\\banner\\banner-3.jpg"
+    },
+    {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\banner\\bannerr1.png",
+      "PackagePath": "staticwebassets\\img\\banner\\bannerr1.png"
+    },
+    {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\banner\\bannerr2.png",
+      "PackagePath": "staticwebassets\\img\\banner\\bannerr2.png"
+    },
+    {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\banner\\bannerr3.png",
+      "PackagePath": "staticwebassets\\img\\banner\\bannerr3.png"
     },
     {
       "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\blog\\blog-1.jpg",
@@ -237,6 +305,10 @@
       "PackagePath": "staticwebassets\\img\\clients\\client-8.png"
     },
     {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\focus-offical-logo.png",
+      "PackagePath": "staticwebassets\\img\\focus-offical-logo.png"
+    },
+    {
       "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\footer-logo.png",
       "PackagePath": "staticwebassets\\img\\footer-logo.png"
     },
@@ -269,28 +341,32 @@
       "PackagePath": "staticwebassets\\img\\icon\\search.png"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\instagram\\instagram-1.jpg",
-      "PackagePath": "staticwebassets\\img\\instagram\\instagram-1.jpg"
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\instagram\\instagram1.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\instagram1.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\instagram\\instagram-2.jpg",
-      "PackagePath": "staticwebassets\\img\\instagram\\instagram-2.jpg"
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\instagram\\instagram2.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\instagram2.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\instagram\\instagram-3.jpg",
-      "PackagePath": "staticwebassets\\img\\instagram\\instagram-3.jpg"
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\instagram\\instagram3.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\instagram3.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\instagram\\instagram-4.jpg",
-      "PackagePath": "staticwebassets\\img\\instagram\\instagram-4.jpg"
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\instagram\\instagram4.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\instagram4.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\instagram\\instagram-5.jpg",
-      "PackagePath": "staticwebassets\\img\\instagram\\instagram-5.jpg"
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\instagram\\instagram5.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\instagram5.jpg"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\instagram\\instagram-6.jpg",
-      "PackagePath": "staticwebassets\\img\\instagram\\instagram-6.jpg"
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\instagram\\instagram6.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\instagram6.jpg"
+    },
+    {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\instagram\\instagram6.png",
+      "PackagePath": "staticwebassets\\img\\instagram\\instagram6.png"
     },
     {
       "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\logo.png",
@@ -361,6 +437,34 @@
       "PackagePath": "staticwebassets\\img\\product\\product-9.jpg"
     },
     {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\product\\product1.png",
+      "PackagePath": "staticwebassets\\img\\product\\product1.png"
+    },
+    {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\product\\product2.png",
+      "PackagePath": "staticwebassets\\img\\product\\product2.png"
+    },
+    {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\product\\product3.png",
+      "PackagePath": "staticwebassets\\img\\product\\product3.png"
+    },
+    {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\product\\product4.png",
+      "PackagePath": "staticwebassets\\img\\product\\product4.png"
+    },
+    {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\product\\product5.png",
+      "PackagePath": "staticwebassets\\img\\product\\product5.png"
+    },
+    {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\product\\product6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product6.jpg"
+    },
+    {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\sale.png",
+      "PackagePath": "staticwebassets\\img\\sale.png"
+    },
+    {
       "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\img\\shop-details\\details-payment.png",
       "PackagePath": "staticwebassets\\img\\shop-details\\details-payment.png"
     },
@@ -417,6 +521,10 @@
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\js\\index.js",
+      "PackagePath": "staticwebassets\\js\\index.js"
+    },
+    {
       "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\js\\jquery-3.3.1.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
     },
@@ -441,8 +549,12 @@
       "PackagePath": "staticwebassets\\js\\jquery.slicknav.js"
     },
     {
-      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\js\\main.js",
-      "PackagePath": "staticwebassets\\js\\main.js"
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\js\\mdbootstrap\\mdb.min.js",
+      "PackagePath": "staticwebassets\\js\\mdbootstrap\\mdb.min.js"
+    },
+    {
+      "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\js\\mdbootstrap\\mdb.min.js.map",
+      "PackagePath": "staticwebassets\\js\\mdbootstrap\\mdb.min.js.map"
     },
     {
       "Id": "D:\\CN5\\FocusOffical\\FocusOffical\\wwwroot\\js\\mixitup.min.js",

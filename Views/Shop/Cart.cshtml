@@ -3,6 +3,8 @@
 *@
 @{
     ViewData["Title"] = "Cart";
+    var cart = ViewData["cart"] as List<Cart>;
+    var IsCartNullOrEmpty = cart == null || cart.Count == 0;
 }
 
 <!-- Breadcrumb Section Begin -->
@@ -13,7 +15,7 @@
                 <div class="breadcrumb__text">
                     <h4>Shopping Cart</h4>
                     <div class="breadcrumb__links">
-                        <a href="./index.html">Home</a>
+                        <a asp-controller="Home" asp-action="Index">Home</a>
                         <span>Shopping Cart</span>
                     </div>
                 </div>
@@ -27,6 +29,8 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8">
+                <h6 class="coupon__code @(!IsCartNullOrEmpty ? "d-none" : "")"><span class="icon_error-oct_alt"></span>Cart is empty. Let's shopping.</h6>
+
                 <div class="shopping__cart__table">
                     <table>
                         <thead>
@@ -38,26 +42,32 @@
                             </tr>
                         </thead>
                         <tbody>
-                            <tr>
-                                <td class="product__cart__item">
-                                    <div class="product__cart__item__pic">
-                                        <img src="~/img/shopping-cart/cart-1.jpg" alt="">
-                                    </div>
-                                    <div class="product__cart__item__text">
-                                        <h6>T-shirt Contrast Pocket</h6>
-                                        <h5>$98.49</h5>
-                                    </div>
-                                </td>
-                                <td class="quantity__item">
-                                    <div class="quantity">
-                                        <div class="pro-qty-2">
-                                            <input type="number" value="1" min="1">
-                                        </div>
-                                    </div>
-                                </td>
-                                <td class="cart__price">$ 30.00</td>
-                                <td class="cart__close"><i class="fa fa-close"></i></td>
-                            </tr>
+                            @if (!IsCartNullOrEmpty)
+                            {
+                                @foreach(var detail in cart)
+                                {
+                                    <tr class="item__row" data-product-id="@detail.Product.ProductId">
+                                        <td class="product__cart__item">
+                                            <div class="product__cart__item__pic">
+                                                <img src="~/img/product/@detail.Product.Image" alt="" style="width: 90px;">
+                                            </div>
+                                            <div class="product__cart__item__text">
+                                                <h6>@detail.Product.Name</h6>
+                                                <h5 class="product__price">@detail.Product.Price.ToString("N0") ₫</h5>
+                                            </div>
+                                        </td>
+                                        <td class="quantity__item">
+                                            <div class="quantity">
+                                                <div class="pro-qty-2">
+                                                    <input class="product__quantity" type="number" value="@detail.Quantity" min="1">
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td class="cart__price">@((detail.Product.Price * detail.Quantity).ToString("N0")) ₫</td>
+                                        <td class="cart__close"><i class="fa fa-close product__remove" style="cursor: pointer;"></i></td>
+                                    </tr>
+                                }
+                            }
                         </tbody>
                     </table>
                 </div>
@@ -73,12 +83,82 @@
                 <div class="cart__total">
                     <h6>Cart total</h6>
                     <ul>
-                        <li>Total <span>$ 169.50</span></li>
+                        <li>Total <span class="cart__total__detail">@(Convert.ToInt32(ViewData["total"]).ToString("N0")) ₫</span></li>
                     </ul>
-                    <a asp-controller="Shop" asp-action="CheckOut" class="primary-btn">Proceed to checkout</a>
+                    <a asp-controller="Shop" asp-action="CheckOut" class="btn-check-out btn primary-btn @(IsCartNullOrEmpty ? "disabled" : "")">Proceed to checkout</a>
                 </div>
             </div>
         </div>
     </div>
 </section>
 <!-- Shopping Cart Section End -->
+
+@section Scripts {
+    <script>
+        let quantityInputs = document.querySelectorAll(".product__quantity");
+
+        quantityInputs.forEach(quantityInput => {
+            quantityInput.addEventListener("change", e => {
+                let target = e.target;
+
+                let productId = target.closest(".item__row").getAttribute("data-product-id");
+                let quantity = target.value;
+
+                if(quantity <= 0){
+                    target.value = 1;
+                    quantity = 1;
+                }
+
+                changeQuantity(productId, quantity);
+            });
+        })
+
+        let removeBtn = document.querySelectorAll(".product__remove");
+
+        removeBtn.forEach(btn => {
+            btn.addEventListener("click", e => {
+                let productItem = e.target.closest(".item__row");
+                let productId = productItem.getAttribute("data-product-id");
+
+                changeQuantity(productId, 0);
+                productItem.remove();
+            })
+        })
+
+        function changeQuantity(productId, quantity){
+            $.ajax({
+                url: '/shop/addtocart',
+                type: 'POST',
+                data: { productId: productId, quantity: quantity },
+                success: function (response) {
+                    if (response.success) {
+                        let total = document.querySelector(".cart__total__detail");
+                        total.innerHTML = formatCurrency(response.total);
+
+                        updateCart();
+                    }
+                },
+                error: function (xhr, status, error) {
+                    ToastMessage("Fail to send api", "");
+                }
+            });
+        }
+
+        function updateCart(){
+            let cartItems = document.querySelectorAll(".item__row");
+
+            if(cartItems.length == 0){
+                document.querySelector(".coupon__code").classList.remove("d-none");
+                document.querySelector(".btn-check-out").classList.add("disabled");
+            }
+
+            cartItems.forEach(item => {
+                let itemPrice = convertCurrency(item.querySelector(".product__price").innerHTML);
+                let itemQuantity = item.querySelector(".product__quantity").value;
+
+                let cartPrice = item.querySelector(".cart__price");
+                cartPrice.innerHTML = formatCurrency(itemPrice * itemQuantity);
+            })
+        }
+    </script>
+}

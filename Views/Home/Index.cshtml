@@ -1,4 +1,6 @@
-﻿@{
+﻿@model List<FocusOffical.Models.Product>
+
+@{
     ViewData["Title"] = "Home";
 }
 
@@ -11,17 +13,15 @@
                     <div class="col-xl-5 col-lg-7 col-md-8">
                         <div class="hero__text">
                             <h6>Summer Collection</h6>
-                            <h2>Fall - Winter Collections 2030</h2>
+                            <h2>T-shirt Collections 2023</h2>
                             <p>
-                                A specialist label creating luxury essentials.
-                                Ethically crafted with an unwavering commitment to exceptional quality.
+                                Focus is a fashion brand that carries a message with simple, stylish designs, high-standard products for global youth who confidently express their individuality.
                             </p>
                             <a href="#shop" class="primary-btn">Shop now <span class="arrow_right"></span></a>
                             <div class="hero__social">
-                                <a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-pinterest"></i></a>
-                                <a href="#"><i class="fa fa-instagram"></i></a>
+                                <a href="https://www.facebook.com/profile.php?id=100092209278501"><i class="fa fa-facebook"></i></a>
+                                <a href="https://www.instagram.com/focus_official88"><i class="fa fa-instagram"></i></a>
+                                <a href="https://www.instagram.com/focus_official88"><i class="fa-brands fa-tiktok"></i></i></a>
                             </div>
                         </div>
                     </div>
@@ -34,17 +34,15 @@
                     <div class="col-xl-5 col-lg-7 col-md-8">
                         <div class="hero__text">
                             <h6>Summer Collection</h6>
-                            <h2>Fall - Winter Collections 2030</h2>
+                            <h2>T-shirt Collections 2023</h2>
                             <p>
-                                A specialist label creating luxury essentials. Ethically crafted with an unwavering
-                                commitment to exceptional quality.
+                                Focus is a fashion brand that carries a message with simple, stylish designs, high-standard products for global youth who confidently express their individuality.
                             </p>
                             <a href="#shop" class="primary-btn">Shop now <span class="arrow_right"></span></a>
                             <div class="hero__social">
-                                <a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-pinterest"></i></a>
-                                <a href="#"><i class="fa fa-instagram"></i></a>
+                                <a href="https://www.facebook.com/profile.php?id=100092209278501"><i class="fa fa-facebook"></i></a>
+                                <a href="https://www.instagram.com/focus_official88"><i class="fa fa-instagram"></i></a>
+                                <a href="https://www.instagram.com/focus_official88"><i class="fa-brands fa-tiktok"></i></i></a>
                             </div>
                         </div>
                     </div>
@@ -61,10 +59,10 @@
             <div class="col-lg-7 offset-lg-4">
                 <div class="banner__item">
                     <div class="banner__item__pic">
-                        <img src="~/img/banner/banner-1.jpg" alt="">
+                        <img src="~/img/banner/1.jpg" alt="">
                     </div>
                     <div class="banner__item__text">
-                        <h2>Clothing Collections 2030</h2>
+                        <h2>Blooming Collections</h2>
                         <a href="#shop">Shop now</a>
                     </div>
                 </div>
@@ -72,10 +70,10 @@
             <div class="col-lg-5">
                 <div class="banner__item banner__item--middle">
                     <div class="banner__item__pic">
-                        <img src="~/img/banner/banner-2.jpg" alt="">
+                        <img src="~/img/banner/2.jpg" alt="">
                     </div>
                     <div class="banner__item__text">
-                        <h2>Accessories</h2>
+                        <h2>Sunflower Collections</h2>
                         <a href="#shop">Shop now</a>
                     </div>
                 </div>
@@ -83,10 +81,10 @@
             <div class="col-lg-7">
                 <div class="banner__item banner__item--last">
                     <div class="banner__item__pic">
-                        <img src="~/img/banner/banner-3.jpg" alt="">
+                        <img src="~/img/banner/3.jpg" alt="">
                     </div>
                     <div class="banner__item__text">
-                        <h2>Shoes Spring 2030</h2>
+                        <h2>Simple Collections</h2>
                         <a href="#shop">Shop now</a>
                     </div>
                 </div>
@@ -102,104 +100,34 @@
             <div class="col-lg-12">
                 <ul class="filter__controls">
                     <li class="active" data-filter="*">Best Sellers</li>
-                    <li data-filter=".new-products">New Arrivals</li>
-                    <li data-filter=".hot-sales">Hot Sales</li>
+                    <li data-filter=".blooming">Blooming</li>
+                    <li data-filter=".simple">Simple</li>
+                    <li data-filter=".sunflower">SunFlower</li>
                 </ul>
             </div>
         </div>
         <div class="row product__filter">
-            <div class="col-lg-3 col-md-6 col-sm-6 col-md-6 col-sm-6 mix new-products">
-                <div class="product__item">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/product-1.jpg">
-                        <span class="label">New</span>
-                    </div>
-                    <div class="product__item__text">
-                        <h6>Piqué Biker Jacket</h6>
-                        <a href="#" class="add-cart">+ Add To Cart</a>
-                        <h5>$67.24</h5>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-6 col-md-6 col-sm-6 mix hot-sales">
-                <div class="product__item">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/product-2.jpg">
-                    </div>
-                    <div class="product__item__text">
-                        <h6>Piqué Biker Jacket</h6>
-                        <a href="#" class="add-cart">+ Add To Cart</a>
-                        <h5>$67.24</h5>
+            @foreach(var product in Model)
+            {
+                <div class="col-lg-3 col-md-6 col-sm-6 col-md-6 col-sm-6 mix @product.Category">
+                    <div class="product__item @(product.Category == "sunflower" ? "sale" : "")">
+                        <div class="product__item__pic set-bg" data-setbg="img/product/@product.Image">
+                            @if(product.Category == "sunflower")
+                            {
+                                <span class="label">Sale</span>
+                            }else
+                            {
+                                <span class="label">New</span>
+                            }
+                        </div>
+                        <div class="product__item__text">
+                            <h6>@product.Name</h6>
+                            <a href="#" class="add-cart" onclick="event.preventDefault(); AddToCart(@product.ProductId)">+ Add To Cart</a>
+                            <h5>@product.Price.ToString("N0") ₫</h5>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-6 col-md-6 col-sm-6 mix hot-sales">
-                <div class="product__item sale">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/product-3.jpg">
-                        <span class="label">Sale</span>
-                    </div>
-                    <div class="product__item__text">
-                        <h6>Multi-pocket Chest Bag</h6>
-                        <a href="#" class="add-cart">+ Add To Cart</a>
-                        <h5>$43.48</h5>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-6 col-md-6 col-sm-6 mix new-products">
-                <div class="product__item">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/product-4.jpg">
-                    </div>
-                    <div class="product__item__text">
-                        <h6>Diagonal Textured Cap</h6>
-                        <a href="#" class="add-cart">+ Add To Cart</a>
-                        <h5>$60.9</h5>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-6 col-md-6 col-sm-6 mix new-products">
-                <div class="product__item">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/product-1.jpg">
-                        <span class="label">New</span>
-                    </div>
-                    <div class="product__item__text">
-                        <h6>Piqué Biker Jacket</h6>
-                        <a href="#" class="add-cart">+ Add To Cart</a>
-                        <h5>$67.24</h5>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-6 col-md-6 col-sm-6 mix hot-sales">
-                <div class="product__item">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/product-2.jpg">
-                    </div>
-                    <div class="product__item__text">
-                        <h6>Piqué Biker Jacket</h6>
-                        <a href="#" class="add-cart">+ Add To Cart</a>
-                        <h5>$67.24</h5>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-6 col-md-6 col-sm-6 mix hot-sales">
-                <div class="product__item sale">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/product-3.jpg">
-                        <span class="label">Sale</span>
-                    </div>
-                    <div class="product__item__text">
-                        <h6>Multi-pocket Chest Bag</h6>
-                        <a href="#" class="add-cart">+ Add To Cart</a>
-                        <h5>$43.48</h5>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-6 col-md-6 col-sm-6 mix new-products">
-                <div class="product__item">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/product-4.jpg">
-                    </div>
-                    <div class="product__item__text">
-                        <h6>Diagonal Textured Cap</h6>
-                        <a href="#" class="add-cart">+ Add To Cart</a>
-                        <h5>$60.9</h5>
-                    </div>
-                </div>
-            </div>
+            }
         </div>
     </div>
 </section>
@@ -210,22 +138,22 @@
         <div class="row">
             <div class="col-lg-3">
                 <div class="categories__text">
-                    <h2>Clothings Hot <br /> <span>Shoe Collection</span> <br /> Accessories</h2>
+                    <h2>T-Shirt Brand <br /> <span>SunFlower</span> <br /> Focus Brand</h2>
                 </div>
             </div>
             <div class="col-lg-4">
                 <div class="categories__hot__deal">
-                    <img src="~/img/product-sale.png" alt="">
+                    <img src="~/img/sale.png" alt="">
                     <div class="hot__deal__sticker">
-                        <span>Sale Of</span>
-                        <h5>$29.99</h5>
+                        <span>Sale Off</span>
+                        <h5>199k</h5>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 offset-lg-1">
                 <div class="categories__deal__countdown">
                     <span>Deal Of The Week</span>
-                    <h2>Multi-pocket Chest Bag Black</h2>
+                    <h2>Sunflower T-shirt Collection</h2>
                     <div class="categories__deal__countdown__timer" id="countdown">
                         <div class="cd-item">
                             <span>0</span>
@@ -244,7 +172,7 @@
                             <p>Seconds</p>
                         </div>
                     </div>
-                    <a href="#" class="primary-btn">Shop now</a>
+                    <a href="#shop" class="primary-btn">Shop now</a>
                 </div>
             </div>
         </div>
@@ -257,25 +185,52 @@
         <div class="row">
             <div class="col-lg-8">
                 <div class="instagram__pic">
-                    <div class="instagram__pic__item set-bg" data-setbg="img/instagram/instagram-1.jpg"></div>
-                    <div class="instagram__pic__item set-bg" data-setbg="img/instagram/instagram-2.jpg"></div>
-                    <div class="instagram__pic__item set-bg" data-setbg="img/instagram/instagram-3.jpg"></div>
-                    <div class="instagram__pic__item set-bg" data-setbg="img/instagram/instagram-4.jpg"></div>
-                    <div class="instagram__pic__item set-bg" data-setbg="img/instagram/instagram-5.jpg"></div>
-                    <div class="instagram__pic__item set-bg" data-setbg="img/instagram/instagram-6.jpg"></div>
+                    <div class="instagram__pic__item set-bg" data-setbg="img/instagram/instagram1.jpg"></div>
+                    <div class="instagram__pic__item set-bg" data-setbg="img/instagram/instagram2.jpg"></div>
+                    <div class="instagram__pic__item set-bg" data-setbg="img/instagram/instagram3.jpg"></div>
+                    <div class="instagram__pic__item set-bg" data-setbg="img/instagram/instagram4.jpg"></div>
+                    <div class="instagram__pic__item set-bg" data-setbg="img/instagram/instagram6.jpg"></div>
+                    <div class="instagram__pic__item set-bg" data-setbg="img/instagram/instagram5.jpg"></div>
                 </div>
             </div>
             <div class="col-lg-4">
                 <div class="instagram__text">
                     <h2>Instagram</h2>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua.
+                        Focus T-shirt - Passion in every stitch, messages in every shade. Let's tell your story through each thread with us.
                     </p>
-                    <h3>#Male_Fashion</h3>
+                    <h3>#Focus_Offical</h3>
                 </div>
             </div>
         </div>
     </div>
 </section>
 <!-- Instagram Section End -->
+
+@section Scripts {
+    <script>
+        function AddToCart(productId){
+            $.ajax({
+                url: '/shop/addtocart',
+                type: 'POST',
+                data: {productId: productId, quantity: 1},
+                success: function (response) {
+                    if (response.success) {
+                        ToastMessage("Add product to cart successfully.", "/shop/cart");
+                        let cartNum = document.querySelectorAll(".cart-num");
+                        let cartPrice = document.querySelectorAll(".cart-price");
+
+                        cartNum.forEach(n => n.innerHTML = response.numberOfProduct);
+                        cartPrice.forEach(e => e.innerHTML = formatCurrency(response.total));
+
+                    } else {
+                        ToastMessage(response.message, "");
+                    }
+                },
+                error: function (xhr, status, error) {
+                    ToastMessage("Fail to send api", "");
+                }
+            });
+        }
+    </script>
+}

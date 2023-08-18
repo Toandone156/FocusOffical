@@ -15,39 +15,57 @@ namespace FocusOffical.Services
             new Product
             {
                 ProductId = 1,
-                Name = "Test T-Shirt",
-                Description = "Test test",
-                Price = 100_000,
-                Category = "new-products",
-                Image = "product-1.jpg"
+                Name = "Blooming",
+                Description = "You are rose of the garden",
+                Price = 239_000,
+                Category = "blooming",
+                Image = "product1.png"
             },
             new Product
             {
                 ProductId = 2,
-                Name = "Test T-Shirt 2",
-                Description = "Test test",
-                Price = 100_000,
-                Category = "new-products",
-                Image = "product-2.jpg"
+                Name = "Simple",
+                Description = "If you love life. Life will love you back",
+                Price = 239_000,
+                Category = "simple",
+                Image = "product2.png"
             },
             new Product
             {
                 ProductId = 3,
-                Name = "Test T-Shirt 3",
-                Description = "Test test",
-                Price = 100_000,
-                Category = "new-products",
-                Image = "product-3.jpg"
+                Name = "Focus Simple",
+                Description = "If you love life. Life will love you back",
+                Price = 239_000,
+                Category = "simple",
+                Image = "product3.png"
             },
             new Product
             {
                 ProductId = 4,
-                Name = "Test T-Shirt 4",
-                Description = "Test test",
-                Price = 100_000,
-                Category = "new-products",
-                Image = "product-4.jpg"
+                Name = "Focus Blooming",
+                Description = "You are rose of the garden",
+                Price = 239_000,
+                Category = "blooming",
+                Image = "product4.png"
             },
+            new Product
+            {
+                ProductId = 5,
+                Name = "08 Simple",
+                Description = "If you love life. Life will love you back",
+                Price = 239_000,
+                Category = "simple",
+                Image = "product5.png"
+            },
+            new Product
+            {
+                ProductId = 6,
+                Name = "Sunflower",
+                Description = "“Beauty from within’ - “A Rose can never be a sunflower, and a sunflower can never be a rose. All flowers are beautiful in their own way, and that’s like women too.”\r\n",
+                Price = 199_000,
+                Category = "sunflower",
+                Image = "product6.jpg"
+            }
         };
 
         public List<Product> GetAll()

@@ -1,0 +1,16 @@
+D:\CN5\FocusOffical\FocusOffical\obj\Release\net6.0\PubTmp\Out\FocusOffical.exe
+D:\CN5\FocusOffical\FocusOffical\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\CN5\FocusOffical\FocusOffical\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\CN5\FocusOffical\FocusOffical\obj\Release\net6.0\PubTmp\Out\FocusOffical.dll
+D:\CN5\FocusOffical\FocusOffical\obj\Release\net6.0\PubTmp\Out\FocusOffical.deps.json
+D:\CN5\FocusOffical\FocusOffical\obj\Release\net6.0\PubTmp\Out\FocusOffical.runtimeconfig.json
+D:\CN5\FocusOffical\FocusOffical\obj\Release\net6.0\PubTmp\Out\FocusOffical.pdb
+D:\CN5\FocusOffical\FocusOffical\obj\Release\net6.0\PubTmp\Out\BouncyCastle.Cryptography.dll
+D:\CN5\FocusOffical\FocusOffical\obj\Release\net6.0\PubTmp\Out\MailKit.dll
+D:\CN5\FocusOffical\FocusOffical\obj\Release\net6.0\PubTmp\Out\MimeKit.dll
+D:\CN5\FocusOffical\FocusOffical\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\CN5\FocusOffical\FocusOffical\obj\Release\net6.0\PubTmp\Out\System.Formats.Asn1.dll
+D:\CN5\FocusOffical\FocusOffical\obj\Release\net6.0\PubTmp\Out\System.Security.Cryptography.Pkcs.dll
+D:\CN5\FocusOffical\FocusOffical\obj\Release\net6.0\PubTmp\Out\System.Text.Encoding.CodePages.dll
+D:\CN5\FocusOffical\FocusOffical\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\CN5\FocusOffical\FocusOffical\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
